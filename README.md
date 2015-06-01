@@ -7,6 +7,8 @@ A follow focus gear designed to fit the barrel of the LOMO 20-120 Zoom. Gear pit
 
 If you own this lens, you know how insanely huge it is, and so you'll understand why you need a fairly large printer to print this thing. Depending on your lens and the wear on its barrel, the fit may be tight enough to require a bit of sanding before installation.  
 
+Designed with [FreeCAD](http://www.freecadweb.org/).
+
 Author
 --------
 Floyd Diebel (fdiebel)
