@@ -1,4 +1,4 @@
-Follow Focus Gear for LOMO 35OPF18-1 20-120 zoom lens
+Follow Focus Gear - LOMO 35OPF18-1 20-120 Zoom
 =============
 
 A follow focus gear designed to fit the barrel of the LOMO 20-120 Zoom. Gear pitch is the standard 0.8mm.
